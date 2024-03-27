@@ -32,16 +32,16 @@ const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
 ╭────✧𝐒𝐚𝐡𝐚𝐧-𝐌𝐃✧────◆
-│🌠 *Préfix* : ${s.PREFIXE}
-│🌠 *User* : ${s.OWNER_NAME}
-│🌠 *Mode* : ${mode}
-│🌠 *Commands* : ${cm.length} 
-│🌠 *Date* : ${date}
-│🌠 *Time* : ${temps} 
-│🌠 *Ram* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│🌠 *Platform* : ${os.platform()}
-│🌠 *Developer* : 𝐒𝐚𝐡𝐚𝐧
-│🌠 *Version* : 𝐯7.5.25
+│✅ *Préfix* : ${s.PREFIXE}
+│✅ *User* : ${s.OWNER_NAME}
+│✅ *Mode* : ${mode}
+│✅ *Commands* : ${cm.length} 
+│✅ *Date* : ${date}
+│✅ *Time* : ${temps} 
+│✅ *Ram* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
+│✅ *Platform* : ${os.platform()}
+│✅ *Developer* : 𝐒𝐚𝐡𝐚𝐧
+│✅ *Version* : 𝐯1.1
 ╰─────✧The-GOAT✧─────◆ \n\n`;
 
   let menuMsg=`  
