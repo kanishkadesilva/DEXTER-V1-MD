@@ -55,13 +55,13 @@ zokou({ nomCom: "developer", categorie: "General", reaction: "💞" }, async (de
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-      { nom: "📌 sahan ", numero: "+94720797915" },
-      { nom: "📌 kanishka", numero: "+94722477361" },
+      { nom: "𝙺𝙰𝙽𝙸𝚂𝙷𝙺𝙰_𝚇", numero: "+94722477361" },
+      { nom: "𝚂𝙰𝙷𝙰𝙽", numero: "+94720797915" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
-    let message = "👋 *Welcome to Sahan-MD* here is the developer contact numbers 👇\n\n";
-    for (const dev of devs) {
+    let message = "👋 *𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 𝗤𝘂𝗲𝗲𝗻 𝗧𝗵𝗮𝗿𝘂-𝗺𝗱* 𝗵𝗲𝗿𝗲 𝗶𝘀 𝘁𝗵𝗲 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿𝘀 𝗰𝗼𝗻𝘁𝗮𝗰𝘁 𝗻𝘂𝗺𝗯𝗲𝗿𝘀 😶‍🌫️\n\n";
+    for (const dev of devs) {𝗽
       message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
     }
   var lien = mybotpic()
@@ -94,8 +94,8 @@ else {
 zokou({ nomCom: "support", categorie: "General" }, async (dest, zk, commandeOptions) => {
   const { ms, repondre, auteurMessage, } = commandeOptions; 
  
-  repondre("⚔ *Sahan Share Link* ⚔")
-  await zk.sendMessage(auteurMessage,{text : `https://wa.me/94720797915`},{quoted :ms})
+  repondre("⚔ *Kanishka Share Link* ⚔")
+  await zk.sendMessage(auteurMessage,{text : `https://wa.me/94722477361`},{quoted :ms})
 
 })
 
