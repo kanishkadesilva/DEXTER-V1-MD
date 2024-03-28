@@ -73,17 +73,8 @@ else {
     } else {
         if(!superUser) { repondre("there is no alive for this bot") ; return};
 
-      await   repondre("*╭─────────────┈⊷*
-*│*```「 𝐇𝐄𝐘 𝐓𝐇𝐄𝐑𝐄 :🥂👥°」```
-*╰┬────────────┈⊷*
-*┌┤*```❖ Nice to meat you :```
-*││*◦➛ . ```♻️NAME |:Babiya ``` 
-*││*◦➛ . ```♻️LOCAT |:Badulla``` 
-*││*◦➛ . ```♻️AGE |:16+``` 
-*││*◦➛ . ```♻️B.D |:july/18``` 
-*│╰────────────┈⊷*
-*╰─────────────┈⊷*");
-         repondre(" *Support Kanishka_X and Cyber Buddy*")
+      await   repondre("*Qᴜᴇᴇɴ ᴛʜᴀʀᴜ-ᴍᴅ*");
+         repondre("*⚘ Inspiring the intelligence. Connecting you digitally. 🐝*")
      }
  } else {
 
