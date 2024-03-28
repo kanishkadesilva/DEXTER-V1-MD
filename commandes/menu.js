@@ -31,7 +31,7 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-╭────✧𝐒𝐚𝐡𝐚𝐧-𝐌𝐃✧────◆
+╭────✧𝐐𝐮𝐞𝐞𝐧 𝐓𝐡𝐚𝐫𝐮-𝐦𝐝✧────◆
 │✅ *Préfix* : ${s.PREFIXE}
 │✅ *User* : ${s.OWNER_NAME}
 │✅ *Mode* : ${mode}
@@ -40,13 +40,14 @@ const date = moment().format('DD/MM/YYYY');
 │✅ *Time* : ${temps} 
 │✅ *Ram* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 │✅ *Platform* : ${os.platform()}
-│✅ *Developer* : 𝐒𝐚𝐡𝐚𝐧
+│✅ *Developer* : 𝗞𝗔𝗡𝗜𝗦𝗛𝗞𝗔_𝗫
 │✅ *Version* : 𝐯1.1
 ╰─────✧The-GOAT✧─────◆ \n\n`;
 
   let menuMsg=`  
 
-*Sahan-MD COMMANDS :*
+*⚘ Inspiring the intelligence.
+Connecting you digitality. 🐝*
 ◇                             ◇
 `;
 
@@ -64,7 +65,7 @@ const date = moment().format('DD/MM/YYYY');
 ◇            ◇
 *————— ★ —————*
 
-  *📌Sahan©🐐²0²⁴*                                         
+  *📌©𝗞𝗔𝗡𝗜𝗦𝗛𝗞𝗔 🥷²0²⁴*                                         
 *╰═════════════⊷*
 `;
 
