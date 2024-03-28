@@ -29,14 +29,15 @@ zokou({
           
        let infoMess = {
           image: {url : videos[0]. thumbnail},
-         caption : `\n*song name :* _${videos[0].title}_
+         caption : `\n*𝗦𝗼𝗻𝗴 𝗻𝗮𝗺𝗲 :* _${videos[0].title}_
 
-*Time :* _${videos[0].timestamp}_
+*𝗗𝘂𝗿𝗮𝘁𝗶𝗼𝗻 :* _${videos[0].timestamp}_
 
-*Url :* _${videos[0].url}_
+*𝗨𝗿𝗹 :* _${videos[0].url}_
 
+*𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿* : 𝗞𝗮𝗻𝗶𝘀𝗵𝗸𝗮_𝘅
 
-_*Sahan-MD SONG DOWNLOADING......*_\n\n`
+_*Qᴜᴇᴇɴ ᴛʜᴀʀᴜ-ᴍᴅ*_\n\n`
        }
 
       
@@ -103,14 +104,15 @@ zokou({
 
       let InfoMess = {
         image: { url: videos[0].thumbnail },
-        caption: `*Video name :* _${Element.title}_
+        caption: `*𝗩𝗶𝗱𝗲𝗼 𝗻𝗮𝗺𝗲 :* _${Element.title}_
 
-*Time :* _${Element.timestamp}_
+*𝗗𝘂𝗿𝗮𝘁𝗶𝗼𝗻 :* _${Element.timestamp}_
 
-*Url :* _${Element.url}_
+*𝗨𝗿𝗹 :* _${Element.url}_
 
+*𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿* : 𝗞𝗮𝗻𝗶𝘀𝗵𝗸𝗮_𝘅
 
-_*Sahan-MD VIDEO DOWNLOADING......*_\n\n`
+_*Qᴜᴇᴇɴ ᴛʜᴀʀᴜ-ᴍᴅ*_\n\n`
       };
 
       zk.sendMessage(origineMessage, InfoMess, { quoted: ms });
