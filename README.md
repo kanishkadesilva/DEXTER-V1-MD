@@ -62,6 +62,10 @@
 
       https://heroku.com/deploy?template=
 
+<a href='https://dashboard.heroku.com/new?template=https://github.com/kanishkadesilva/DEXTER-V1-MD/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+
+
+ [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/kanishkadesilva/DEXTER-V1-MD/)
 
 <b><summary>𝗬𝗼𝘂 𝗱𝗼𝗻'𝘁 𝗵𝗮𝘃𝗲 𝗺𝗼𝗻𝗴𝗼𝗱𝗯 𝘂𝗿𝗹 𝘂𝘀𝗲 𝗽𝘂𝗯𝗹𝗶𝗰 𝘂𝗿𝗹</summary><br>
 
