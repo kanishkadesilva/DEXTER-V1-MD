@@ -54,7 +54,7 @@
 
 1. 𝙸𝚏 𝚢𝚘𝚞 𝚍𝚘𝚗'𝚝 𝚑𝚊𝚟𝚎 𝚊 𝚊𝚌𝚌𝚘𝚞𝚗𝚝 𝚒𝚗 𝙷𝚎𝚛𝚘𝚔𝚞. 𝙲𝚛𝚎𝚊𝚝𝚎 𝚊𝚗 𝚊𝚌𝚌𝚘𝚞𝚗𝚝.
     <br>
-<a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+<a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>   <a href='https://dashboard.heroku.com/new?template=https://github.com/kanishkadesilva/DEXTER-V1-MD/' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=heroku' width="96.35" height="28"/></a></p>
 
 2. 𝙽𝚘𝚠 𝙳𝚎𝚙𝚕𝚘𝚢
     
@@ -63,8 +63,6 @@
       https://heroku.com/deploy?template=
 
  [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/kanishkadesilva/DEXTER-V1-MD/)
-
-<a href='https://railway.app/new/' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=heroku' width="96.35" height="28"/></a></p>
 
 ---
 
