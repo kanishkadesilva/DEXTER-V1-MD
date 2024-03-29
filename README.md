@@ -11,8 +11,7 @@
 
 
 <p align="center">
- <a href="https://chat.whatsapp.com/CGAARZtBFOS596m9sPU4ir"><img title="Support Group" src="https://img.shields.io/badge/ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ-black?style=for-the-badge&logo=whatsapp"></a>
-<a href="https://bit.ly/queen-tharu-official"><img title="website" src="https://img.shields.io/badge/🄾🄵🄵🄸🄲🄸🄰🄻 🅆🄴🄱🅂🄸🅃🄴-black?style=for-the-badge&logo=website"></a>
+	<a href="https://bit.ly/queen-tharu-official"><img title="website" src="https://img.shields.io/badge/🅾🅵🅵🅸🅲🅸🅰🅻 🆆🅴🅱🆂🅸🆃🅴-black?style=for-the-badge&logo=website"></a>
 <p/>
 
 <p align="center">
