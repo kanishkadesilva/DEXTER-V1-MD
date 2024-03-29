@@ -37,7 +37,7 @@
 
 1.  Fork the repo
     <br>
-<a href="https://github.com/kanishkadesilva/QUEEN-THARU-MD/fork"><img title="Fork" src="https://img.shields.io/badge/ꜰᴏʀᴋ Qᴜᴇᴇɴ ᴛʜᴀʀᴜ ʀᴇᴘᴏ-black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/kanishkadesilva/DEXTER-V1-MD/fork"><img title="Fork" src="https://img.shields.io/badge/ꜰᴏʀᴋ Qᴜᴇᴇɴ ᴛʜᴀʀᴜ ʀᴇᴘᴏ-black?style=for-the-badge&logo=github"></a>
 
 2. Get [SESSION-ID] by linking Pair code. `Whatapp>Three dots>Linked Devices>Link with phone number instead`
     <br>
