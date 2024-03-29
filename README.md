@@ -62,27 +62,9 @@
 
       https://heroku.com/deploy?template=
 
-<a href='https://dashboard.heroku.com/new?template=https://github.com/kanishkadesilva/DEXTER-V1-MD/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
-
-
  [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/kanishkadesilva/DEXTER-V1-MD/)
 
-<b><summary>𝗬𝗼𝘂 𝗱𝗼𝗻'𝘁 𝗵𝗮𝘃𝗲 𝗺𝗼𝗻𝗴𝗼𝗱𝗯 𝘂𝗿𝗹 𝘂𝘀𝗲 𝗽𝘂𝗯𝗹𝗶𝗰 𝘂𝗿𝗹</summary><br>
-
- 1)     mongodb+srv://connect:connect@cluster0.jadwggo.mongodb.net/?retryWrites=true&w=majority
- 
- 2)     mongodb+srv://vajirabot1:vajirabot1@cluster0.j0d7xng.mongodb.net/?retryWrites=true&w=majority
-
- 3)     mongodb+srv://Maher-Zubair:SIGMA-MD@zubi.9g6b16y.mongodb.net/?retryWrites=true&w=majority&appName=AtlasApp
-
- 4)     mongodb+srv://Suhail_Md:Suhail_Md@cluster1.0tlyzhm.mongodb.net/?retryWrites=true&w=majority
-
- 5)     mongodb+srv://salmanahmad:s4salmanyt@cluster0.szcj2eo.mongodb.net/?retryWrites=true&w=majority
-    
- 6)     mongodb://uwrr2obvrb4kbwnrvimy:rbgieh8nfk7EylXCh2D@byg4ii8uzy5rro8bcdfu-mongodb.services.clever-cloud.com:2008/byg4ii8uzy5rro8bcdfu
-
-
-<a href='https://railway.app/new/' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=railway' width="96.35" height="28"/></a></p>
+<a href='https://railway.app/new/' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=heroku' width="96.35" height="28"/></a></p>
 
 ---
 
