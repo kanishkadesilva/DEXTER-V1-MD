@@ -11,7 +11,7 @@
 
 
 <p align="center">
-	<a href="https://bit.ly/queen-tharu-official"><img title="website" src="https://img.shields.io/badge/𝗪𝗘𝗕𝗦𝗜𝗧𝗘-black?style=for-the-badge&logo=website"></a>
+	<a href="https://bit.ly/queen-tharu-official"><img title="website" src="https://img.shields.io/badge/𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟 𝗪𝗘𝗕𝗦𝗜𝗧𝗘-black?style=for-the-badge&logo=website"></a>
 <p/>
 
 <p align="center">
